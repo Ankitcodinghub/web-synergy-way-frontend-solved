@@ -1,0 +1,1 @@
+# web-synergy-way-frontend-solved
